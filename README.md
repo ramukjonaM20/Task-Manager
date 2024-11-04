@@ -15,9 +15,9 @@ The Task Manager application is designed to help users organize their tasks with
 * **Data Persistence:** The task list is saved to a file, allowing tasks to be loaded on startup for consistent data storage.
 * **Optional GUI:** An optional graphical interface can be created with Tkinter or PyQt to enhance usability.
 ## Technologies Used
-**Python:** For core functionality and logic.
-**File Handling:** To store and retrieve tasks from a file for data persistence.
-**Tkinter/PyQt (Optional):** For creating a GUI.
+* **Python:** For core functionality and logic.
+* **File Handling:** To store and retrieve tasks from a file for data persistence.
+* **Tkinter/PyQt (Optional):** For creating a GUI.
 ## How to Use
 1. **Console Interface:**
       * The application will present a menu to add, edit, delete, or mark tasks complete.
